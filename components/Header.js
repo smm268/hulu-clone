@@ -25,6 +25,7 @@ function Header() {
             src="https:links.papareact.com/ua6"
             height={100}
             width={200}
+            alt=""
              />
         </header>
     )
